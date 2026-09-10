@@ -112,6 +112,6 @@ The Power BI `.pbix` file is included in this repository.
 
 ---
 
-**Created by Ademola Adewole**
+**Created by ADEMOLA ADEWOLE**
 
 Aspiring Data Analyst | Power BI | SQL | Excel | Python
