@@ -73,8 +73,7 @@ Examines driver performance, delivery performance, incidents, claims, and safety
 
 Analyzes fuel costs, maintenance expenses, downtime, and other operational costs.
 
-![Fuel & Maintenance](Screenshot/fuel-maintenance.png)
-
+![Fuel & Maintenance](Screenshot/4.%20capstone%20fuel-maint..png)
 ### 5. Insights & Recommendations
 
 Summarizes key findings from the analysis and provides recommendations based on the identified business issues.
